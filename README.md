@@ -2,7 +2,7 @@
 
 This small app helps to hack the terminals in the game _Fallout 3_.
 
-![picture of the hack terminal](/readme_stuff/hack_console.png)
+![picture of the hack terminal](/readme_stuff/hack_console.png)  
 _This is a sample image of the hack console how you would find it in the game. 
 Really funny: You can play that small game right **[there](http://mitchellthompson.net/demos/terminal/)** (and solve it eventually with my small tool! :wink:)_
 
